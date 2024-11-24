@@ -25,6 +25,28 @@ __negrito e italico__
 
 ![Texto Imagem](https://www.valuehost.com.br/blog/wp-content/uploads/2016/10/linguagens-de-programacao.jpeg.webp)
 
+'código em linha'
+
+''' código 
+   em 
+   bloco '''
+
+   >Texto Citações
+
+   | Nome | Idade | 
+   |------| ----- |
+   | Laíz |  21   |
+
+[x] Tarefa <br>
+[ ] Tarefa
+
+<center><h2>Sejam Bem Vindos</h2></center>
+
+![Gif](https://media.licdn.com/dms/image/v2/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=tgAv-o8rHSfUFWzGQT2nCOfZkc2Hdluh-9xTR3Opu-w)
+
+
+
+
 <!--
 **Laiz03/Laiz03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -13,10 +13,13 @@
 
 **negrito** ou __negrito__
 
-___negrito e italico__
+__negrito e italico__
 
 - Lista 
   - Sublista
+
+1. Lista 
+   1. Sublista
 
 <!--
 **Laiz03/Laiz03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -22,13 +22,16 @@
 
 ## Contato
 
-<a href="https://www.linkedin.com/in/la%C3%ADz-nascimento-de-oliveira-ba361a1bb/" target="_blank" style="cursor: pointer;"><img src="img/linkedin.png" alt="" width="30px"></a>
+<a href="https://www.linkedin.com/in/la%C3%ADz-nascimento-de-oliveira-ba361a1bb/"><img src="img/linkedin.png" alt="" width="30px"></a>
 
 
 ## Formações
 
-curso adm
-curso técnico ads
+| Curso | Certificado |
+| ------| ----------- |
+|  ADS  | [Certificado](DiplomaADS.jpg)|
+|  ADS  |      vdd       |
+
 cursos extracurriculares
 
 

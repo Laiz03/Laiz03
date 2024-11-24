@@ -44,6 +44,15 @@ __negrito e italico__
 
 ![Gif](https://media.licdn.com/dms/image/v2/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=tgAv-o8rHSfUFWzGQT2nCOfZkc2Hdluh-9xTR3Opu-w)
 
+------------------------------------------------------------
+
+👩🏼‍💻 Olá, me chamo Laíz! <br>
+💻 Técnica em Análise e Desenvolvimento de sistemas  <br>
+👩🏼‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas <br> <br>
+ㅤㅤ<img src="linkedin.png" alt="icon" class="icon" style="height: 15px; width: 15px;"> www.linkedin.com/in/laíz-nascimento-de-oliveira-ba361a1bb
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="icon" class="icon">
 
 
 

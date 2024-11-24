@@ -29,10 +29,8 @@
 
 | Curso | Certificado |
 | ------| ----------- |
-|  ADS  | [Certificado](DiplomaADS.jpg)|
-|  ADS  |      vdd       |
-
-cursos extracurriculares
+|  ADS  | [Certificado](https://ibb.co/cDfqf3Q)|
+|  HTML/CSS  | [Certificado](https://ibb.co/GH2Fxhk)|
 
 
 

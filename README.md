@@ -1,11 +1,22 @@
 ## Hi there 👋
 
-# Titulo 1
+# Titulo 1 
 ## Titulo 2
 ## Titulo 3
 #### Titulo 4
 ##### Titulo 5
 ###### Titulo 6
+
+<h1> oi </h1>
+
+*italico* ou _italico_
+
+**negrito** ou __negrito__
+
+___negrito e italico__
+
+- Lista 
+  - Sublista
 
 <!--
 **Laiz03/Laiz03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

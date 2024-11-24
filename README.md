@@ -29,7 +29,7 @@
 
 | Curso | Certificado |
 | ------| ----------- |
-|  ADS  | [Certificado](https://ibb.co/cDfqf3Q)|
+|  Desenvolvimento De Sistemas  | [Certificado](https://ibb.co/cDfqf3Q)|
 |  HTML/CSS  | [Certificado](https://ibb.co/GH2Fxhk)|
 
 

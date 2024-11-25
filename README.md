@@ -1,5 +1,9 @@
 # Bem Vindos Ao Meu GitHub
 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=020507&background=075BFF00&center=&vCenter=&repeat=&random=&width=435&lines=Bem+vindo+ao+meu+GitHub!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+
+
 👩🏼‍💻 Olá, me chamo Laíz! <br>
 💻 Técnica em Análise e Desenvolvimento de sistemas  <br>
 👩🏼‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas <br> <br>

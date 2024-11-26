@@ -23,7 +23,9 @@
 
 ## Contato
 
-<a href="https://www.linkedin.com/in/la%C3%ADz-nascimento-de-oliveira-ba361a1bb/"><img src="img/linkedin.png" alt="" width="30px"></a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/la%C3%ADz-nascimento-de-oliveira-ba361a1bb/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
+</div>
 
 
 ## Formações
